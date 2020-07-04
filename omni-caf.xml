@@ -8,6 +8,21 @@
            fetch="https://github.com/omnirom"
            review="gerrit.omnirom.org" />
 
+  <remote  name="pixeldustproject"
+           fetch="https://github.com/pixeldustproject" />
+
+  <remote  name="rr"
+           fetch="https://github.com/ResurrectionRemix" />
+
+  <remote  name="jmpfbmx"
+           fetch="https://github.com/jmpfbmx" />
+
+  <remote  name="omni-security"
+           fetch="https://github.com/omni-security" />
+
+  <remote  name="PureFusionOS"
+           fetch="https://github.com/PureFusionOS" />
+
   <project path="packages/apps/MusicFX" name="android_packages_apps_MusicFX" remote="omnirom" revision="android-7.1" />
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="omnirom" revision="android-7.1" />
 </manifest>

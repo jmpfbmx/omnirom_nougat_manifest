@@ -24,14 +24,14 @@
   <project path="packages/apps/Interfacer" name="android_packages_apps_Interfacer" remote="omnirom" revision="android-7.1" />
   <project path="packages/apps/Matlog" name="android_packages_apps_Matlog" remote="omnirom" revision="android-7.1" />
   <project path="packages/apps/MonthCalendarWidget" name="android_packages_apps_MonthCalendarWidget" remote="omnirom" revision="android-7.1" />
-  <project path="packages/apps/OmniClock" name="android_packages_apps_OmniClock" remote="omnirom" revision="android-7.1" />
-  <project path="packages/apps/OmniGears" name="android_packages_apps_OmniGears" remote="omnirom" revision="android-7.1" />
-  <project path="packages/services/OmniJaws" name="android_packages_services_OmniJaws" remote="omnirom" revision="android-7.1" />
-  <project path="packages/apps/OmniSubs" name="android_packages_apps_OmniSubs" remote="omnirom" revision="android-7.1" />
-  <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="omnirom" revision="android-7.1" />
-  <project path="packages/apps/OmniSwitch" name="android_packages_apps_OmniSwitch" remote="omnirom" revision="android-7.1" />
+  <project path="packages/apps/OmniClock" name="android_packages_apps_OmniClock" remote="pixeldustproject" revision="n" />
+  <project path="packages/apps/OmniGears" name="android_packages_apps_OmniGears" remote="jmpfbmx" revision="android-7.1" />
+  <project path="packages/services/OmniJaws" name="android_packages_services_OmniJaws" remote="PureFusionOS" revision="n-mr2" />
+  <project path="packages/apps/OmniSubs" name="android_packages_apps_OmniSubs" remote="omni-security" revision="android-7.1" />
+  <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="rr" revision="android-7.1" />
+  <project path="packages/apps/OmniSwitch" name="android_packages_apps_OmniSwitch" remote="rr" revision="nougat" />
   <project path="packages/apps/OmniTheme" name="android_packages_apps_OmniTheme" remote="omnirom" revision="android-7.1" />
-  <project path="packages/apps/OpenDelta" name="android_packages_apps_OpenDelta" remote="omnirom" revision="android-7.1" />
+  <project path="packages/apps/OpenDelta" name="android_packages_apps_OpenDelta" remote="jmpfbmx" revision="android-7.1" />
   <project path="packages/apps/Phonograph" name="android_packages_apps_Phonograph" remote="omnirom" revision="android-7.1" />
   <project path="vendor/omni" name="android_vendor_omni" remote="omnirom" revision="android-7.1" />
 
